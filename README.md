@@ -4,7 +4,7 @@ PFA
 Assignment completed using BDD Cucumber Framework:
 
 Feature File:
-BDDAssignmentSTC/src/test/resources/features/LoginPage.feature
+/src/test/resources/features/LoginPage.feature
 
 Stepfinition Class:
 src/test/java/com/definitions/SubscriptionsDetailsDefinitions.java
