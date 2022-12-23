@@ -6,7 +6,7 @@ Assignment completed using BDD Cucumber Framework:
 Feature File:
 /src/test/resources/features/LoginPage.feature
 
-Stepfinition Class:
+Stepdefinition Class:
 src/test/java/com/definitions/SubscriptionsDetailsDefinitions.java
 
 TestRunner Class:
